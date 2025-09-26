@@ -1,23 +1,25 @@
 
-The following elite roles are welcome to join MatanaLink as members.<br>
-<br>
+The following elite roles are <b>Welcome</b> to join <h5>MatanaLink</h5> as members.  
+  
 ## Program Manager
-<br>
+  
 ## Project Manager
-<br>
+  
 ## Technical Manager
-<br>
+  
 ## Service Manager
-<br>
-<br>
-The following expert roles are welcome to join TechCompanion as members.<br>
-<br>
+  
+  
+The following expert roles are <b>welcome</b> to join <h5>TechCompanion</h5> as members.  
+  
 ## Industry Business Consultants
+  
 ## Technology Heroes
+  
 ## Cloud Solution Architects
+  
 ## DevOps Experts
+  
 ## Success Practitioners
-<br>
-<br>
-
+  
 

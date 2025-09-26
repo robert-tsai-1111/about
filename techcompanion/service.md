@@ -6,12 +6,12 @@ We offer roles of companions to work with you (your roles)
 ### Business Consultant (Program Manager, Business Owner)  
   
 - Understand your problem and painpoints (story) 
-- Discover approaches and tools to address the challenges 
+- Discover approaches, orgs and tools to address the challenges 
 - Propose reference practices and action options  
 - Wrap up service items (mm, doc)  
   
   
-### Solution Architect  (Project Manager)  
+### Solution Architect  (Program Manager, Project Manager)  
   
 - Understand your context and requirements  
 - Discover technical solutions to build and implement  
@@ -21,7 +21,7 @@ We offer roles of companions to work with you (your roles)
 - Wrap up service items (wbs, doc)   
   
   
-### Deployment Expert  (Delivery Manager)  
+### Deployment Expert  (Project Manager)  
 
 - Access to the context (remote or in person)  
 - Provide service and complete work items   
@@ -37,7 +37,7 @@ We offer roles of companions to work with you (your roles)
 - Wrap up operation status (dashboard, logs, run books, doc)  
   
   
-### Customer Success Manager  (Probram Manager, Business Owner)
+### Customer Success Manager  (Service Manager, Probram Manager, Business Owner)
   
 - Customer Touch and Care  
 - Bridge and Collaborate with all roles  

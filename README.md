@@ -23,4 +23,8 @@ The following expert roles are <b>welcome</b> to join <mark>TechCompanion</mark>
 ## Success Practitioners
   
   
+# Sponsorship and funding  
   
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="robert.tsai.1111" data-color="#FFDD00" data-emoji=""  data-font="Arial" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>  
+ 
+
